@@ -2,7 +2,7 @@
 
 A powerful, interactive Streamlit application to calculate and visualize Dollar Cost Averaging (DCA) investment strategies.
 
-## ✨ Features
+## Features
 
 - **Real-Time Data**: Fetches historical market data for stocks, ETFs, and cryptocurrencies using Yahoo Finance.
 - **DCA Simulation**: Invest a fixed monthly amount over any historical period.
@@ -12,7 +12,7 @@ A powerful, interactive Streamlit application to calculate and visualize Dollar 
 - **Export Data**: Download the simulation results as a CSV file.
 - **Mobile Optimized**: Responsive design that looks great on both desktop and mobile devices.
 
-## 🚀 Installation
+## Installation
 
 1.  **Clone the repository**
     ```bash
@@ -41,7 +41,7 @@ streamlit run dca_app.py
 
 The app will open in your default browser (usually at `http://localhost:8501`).
 
-## ⚙️ Configuration
+## Configuration
 
 Use the sidebar to configure your simulation:
 - **Select Asset**: Choose from popular presets (SPY, BTC-USD, NVDA...) or enter any Yahoo Finance ticker.
@@ -49,7 +49,7 @@ Use the sidebar to configure your simulation:
 - **Monthly Investment**: Set the amount you want to "invest" each month.
 - **Currency**: View values in USD, EUR, GBP, or CHF (handles historical exchange rates automatically).
 
-## 🛠️ Built With
+## Built With
 
 - [Streamlit](https://streamlit.io/)
 - [Yahoo Finance (yfinance)](https://github.com/ranaroussi/yfinance)
