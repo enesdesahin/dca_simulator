@@ -31,7 +31,7 @@ A powerful, interactive Streamlit application to calculate and visualize Dollar 
     pip install -r requirements.txt
     ```
 
-## 🖥️ Usage
+## Usage
 
 Run the Streamlit application:
 
